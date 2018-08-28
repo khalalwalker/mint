@@ -1,0 +1,139 @@
+body {
+    background: #eceef1;
+    color: #404040;
+}
+
+#navbar-container {
+    margin: 0;
+    padding-bottom: 75px;
+}
+.nav-column {
+    margin-left: auto;
+    float: right;
+    font-weight: 115;
+    font-size: 12.5px;
+    line-height: 1.4;
+}
+
+.sign-in {
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 6.45px;
+    height: 33px;
+    margin-left: 6px;
+    font-size: 12.5px;
+}
+
+#quickbooks {
+    margin-right: 4px;
+    margin-left: 4px;
+}
+
+#sign-up-container {
+    background: #fff;
+    border: 1px solid #c7c7c7;
+    padding: 30px;
+    margin-top: 4px;
+}
+fieldset {
+    border: 0px;
+}
+
+button {
+    background-color: #0077C5;
+    color: white;
+}
+
+a {
+    color : #0077C5;
+    text-decoration: none;
+}
+
+#body {
+    text-align: center;
+    font-family: Helvetica, san-serif;
+}
+
+li{
+    list-style: none;
+    display: inline;
+}
+
+#sign-up-container {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sign-up-header {
+    font-size: 26px;
+    margin-bottom: 20px;
+    display: block;
+    font-weight: 180;
+}
+
+#sign-up-subheader {
+    font-size: 14px;
+    font-weight: 200;
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+fieldset {
+    text-align: left !important;
+    font-weight: 275;
+    margin-bottom: 20px;
+}
+input {
+    width: 100%;
+    height: 25px;
+    font-size: 19px;
+    font-weight: 200;
+    
+}
+
+#phone-number {
+    margin-bottom: 5px;
+}
+
+#warning {
+    font-size: 10px;
+}
+
+#submit-info {
+    width: 92%;
+    height: 45px;
+    border-radius: 6.45px;
+    font-size: 16.5px;
+    margin-bottom: 20px;
+    font-weight: 200;
+}
+
+#sign-up-footer-container, #captcha-container {
+    font-size: 12px;
+    line-height: 2;
+    font-weight: 150;
+}
+
+#sign-up-footer-container {
+    color: #bbb;
+}
+
+#captcha-container {
+    background: #eceef1;
+    padding: 17px 30px 17px 30px;
+    border: 1px solid #c7c7c7;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    color: #8d9096;
+}
+
+#main-footer {
+    font-size: 12px;
+    line-height: 1.4;
+    font-weight: 150;
+    margin-bottom: 4px;
+}
